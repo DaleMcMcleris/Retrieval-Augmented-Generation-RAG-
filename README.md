@@ -91,7 +91,7 @@ pip install -r requirements.txt
 ### 3. Run Application
 
 ```bash
-python app.py
+python3 main.py
 ```
 
 ---
